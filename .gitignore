@@ -1,2 +1,6 @@
 # Hugo default output directory
 /public
+
+# Cached external components, pulled during build process
+static/cache/
+static/webfonts/
