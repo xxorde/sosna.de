@@ -58,7 +58,7 @@ pygmentscodefencesguesssyntax = true
     url = "https://pgp.key-server.io/pks/lookup?op=vindex&search=0x957CB30686FDFB1245BB3933565A080331E616C2"
 [[params.social]]
     name = "credativ-Blog"
-    icon = "fas fa-compact-disc fa-2x"
+    icon = "fas fa-rss fa-2x"
     weight = 7
     url = "https://www.credativ.de/blog/alexander-sosna"
 
