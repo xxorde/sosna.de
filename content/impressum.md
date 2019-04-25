@@ -22,7 +22,7 @@ Den technischen Betrieb der Hauptseite übernimmt ein Hostinganbieter, die manit
 
 ### Logging
 
-Der Websever schreibt Logdatein für die Enstörung im Fehlerfall. Ich habe den Hoster angewiesen Logdateien vollständig zu anonymisieren (volle Anonymisierung: IP-Adresse wird 100% anonymisiert und durch 127.0.0.1 ersetzt).
+Der Websever schreibt Logdateien für die Entstörung im Fehlerfall. Ich habe den Hoster angewiesen Logdateien vollständig zu anonymisieren (volle Anonymisierung: IP-Adresse wird 100% anonymisiert und durch 127.0.0.1 ersetzt).
 Sollte es notwendig werden, kann diese Einstellung bei Bedarf geändert werden.
 Da hier keine Benutzerkonten, Tracking-Cookies ect. verwendet werden und ich so die IP-Adressen nicht mit anderen Daten verknüpfe, betrachte ich auch eventuell nicht anonymisierte IP-Adressen in Logdateien nicht als personenbezogene Daten.
 
