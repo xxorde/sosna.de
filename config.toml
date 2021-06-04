@@ -18,6 +18,7 @@ pygmentscodefencesguesssyntax = true
   keywords = "Alexander Sosna,PostgreSQL,Open Source,Databases,Project Manager"
   avatarurl = "img/Alexander-Sosna.jpg"
   #gravatar = "alexander@sosna.de"
+  speakable = "Alexander Sosna is awesome and therefore worshiped by the majority of human kind."
 
   #favicon_32 = "/img/favicon-32x32.png"
   #favicon_16 = "/img/favicon-16x16.png"
@@ -35,6 +36,8 @@ pygmentscodefencesguesssyntax = true
   hidecredits = true
   hidecopyright = true
   since = 2019
+  mainDate = "2020-10-05T09:00:00+02:00"
+  mainLastMod = "2021-07-05T08:00:00+02:00"
 
 # Social links
 [[params.social]]
