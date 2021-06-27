@@ -1,8 +1,8 @@
 baseURL = "https://sosna.de/"
 title = "Alexander Sosna"
 theme = "hugo-coder"
-languageCode = "de"
-defaultcontentlanguage = "de"
+languageCode = "en"
+defaultcontentlanguage = "en"
 
 paginate = 40
 canonifyurls = true
@@ -14,8 +14,8 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Alexander Sosna"
   info = "human"
-  escription = "John Doe's personal website"
-  keywords = "blog,developer,personal"
+  escription = "Alexander Sosna's personal website"
+  keywords = "Alexander Sosna,PostgreSQL,Open Source,Databases,Project Manager"
   avatarurl = "img/Alexander-Sosna.jpg"
 
   hidecredits = true
@@ -27,40 +27,35 @@ pygmentscodefencesguesssyntax = true
 
 # Social links
 [[params.social]]
-    name = "Github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/xxorde/"
-[[params.social]]
     name = "Gitlab"
     icon = "fab fa-gitlab fa-2x"
     weight = 2
     url = "https://gitlab.com/xxorde/"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/xxorde/"
 [[params.social]]
     name = "Twitter"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/xxorde/"
 [[params.social]]
-    name = "Xing"
-    icon = "fab fa-xing fa-2x"
-    weight = 4
-    url = "https://www.xing.com/profile/Alexander_Sosna2"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-linkedin fa-2x"
-    weight = 5
-    url = "https://www.linkedin.com/in/alexander-sosna-7193688b/"
-[[params.social]]
     name = "PGP-Key"
     icon = "fas fa-key fa-2x"
     weight = 6
     url = "https://pgp.key-server.io/pks/lookup?op=vindex&search=0x957CB30686FDFB1245BB3933565A080331E616C2"
 [[params.social]]
-    name = "credativ-Blog"
-    icon = "fas fa-rss fa-2x"
-    weight = 7
-    url = "https://www.credativ.de/blog/alexander-sosna"
+    name = "Xing"
+    icon = "fab fa-xing fa-2x"
+    weight = 4
+    url = "https://www.xing.com/profile/Alexander_Sosna2"
+[[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 5
+    url = "https://www.linkedin.com/in/alexander-sosna-7193688b/"
 
 # Menu links
 #[[menu.main]]
