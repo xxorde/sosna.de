@@ -14,16 +14,27 @@ pygmentscodefencesguesssyntax = true
 [params]
   author = "Alexander Sosna"
   info = "human"
-  escription = "Alexander Sosna's personal website"
+  description = "Alexander Sosna's personal website"
   keywords = "Alexander Sosna,PostgreSQL,Open Source,Databases,Project Manager"
   avatarurl = "img/Alexander-Sosna.jpg"
+  #gravatar = "alexander@sosna.de"
 
-  hidecredits = true
-  hidecopyright = true
+  #favicon_32 = "/img/favicon-32x32.png"
+  #favicon_16 = "/img/favicon-16x16.png"
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
 
   rtl = false
-
   math = false
+
+  footercontent = ""
+  hideFooter = true
+  hidecredits = true
+  hidecopyright = true
+  since = 2019
 
 # Social links
 [[params.social]]
